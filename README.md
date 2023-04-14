@@ -7,10 +7,9 @@ This program creates a bouncing ball animation using the Turtle library in Pytho
 # Installation
 To use this program, you will need to have Python and the Turtle library installed on your computer. You can download Python from the official website: https://www.python.org/downloads/. Once you have Python installed, you can install the Turtle library by running the following command in your terminal:
 
-# Copy code
 `pip install turtle`
 
-#Usage
+# Usage
 To use the program, simply run the bouncy_ball.py file in your Python environment. The animation will start automatically, and you can watch the ball bounce up and down. You can also modify the code to adjust the speed and behavior of the ball.
 
 # Contributing
