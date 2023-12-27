@@ -19,3 +19,5 @@ This project was created as part of a programming fundamentals course, and is no
 This project is licensed under the MIT License. You are free to use and modify the code as you wish. See the LICENSE file for more details.
 
 Thank you for checking out Bouncy Ball!
+
+Author - Laiba Shakil
